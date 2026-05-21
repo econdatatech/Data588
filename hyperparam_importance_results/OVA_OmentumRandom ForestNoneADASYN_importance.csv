@@ -1,0 +1,4 @@
+parameter,importance
+max_depth,0.8211486167303688
+n_estimators,0.11788533673372426
+smote_k,0.06096604653590696

@@ -1,0 +1,4 @@
+parameter,importance
+smote_m,0.947571883928331
+smote_k,0.030025254013058722
+var_smoothing,0.022402862058610203

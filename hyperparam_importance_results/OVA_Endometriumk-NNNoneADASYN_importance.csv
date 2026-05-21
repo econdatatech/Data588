@@ -1,0 +1,4 @@
+parameter,importance
+n_neighbors,0.9160307098240669
+smote_k,0.06549779297369417
+weights,0.018471497202238996

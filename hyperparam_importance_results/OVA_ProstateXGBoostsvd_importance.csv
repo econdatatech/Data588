@@ -1,0 +1,5 @@
+parameter,importance
+ncomp,0.6068697169451447
+learning_rate,0.2902990276536187
+n_estimators,0.0678204941184409
+max_depth,0.03501076128279569

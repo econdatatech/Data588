@@ -1,0 +1,5 @@
+parameter,importance
+min_leaf_purity,0.4332589489703963
+top_pair_fraction,0.2897216956465108
+C,0.19893493545709942
+os_max_depth,0.07808441992599355

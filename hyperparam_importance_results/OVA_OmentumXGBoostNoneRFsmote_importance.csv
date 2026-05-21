@@ -1,0 +1,7 @@
+parameter,importance
+learning_rate,0.40950016008470136
+min_leaf_purity,0.19976838960954063
+os_max_depth,0.1715663468944489
+n_estimators,0.10210049458470016
+top_pair_fraction,0.08415095296600031
+max_depth,0.03291365586060859

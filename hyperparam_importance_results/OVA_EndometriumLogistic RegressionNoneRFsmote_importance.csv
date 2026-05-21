@@ -1,0 +1,5 @@
+parameter,importance
+C,0.47100638384787946
+os_max_depth,0.21777603464452305
+top_pair_fraction,0.1564217795805946
+min_leaf_purity,0.15479580192700287
