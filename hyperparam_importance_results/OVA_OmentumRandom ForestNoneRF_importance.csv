@@ -1,0 +1,5 @@
+parameter,importance
+max_depth,0.7428644265592725
+n_estimators,0.12155170843534895
+top_pair_fraction,0.07114634311054649
+min_leaf_purity,0.06443752189483204

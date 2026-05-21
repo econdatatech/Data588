@@ -1,0 +1,6 @@
+parameter,importance
+n_neighbors,0.9143191940135539
+os_max_depth,0.04794033482790696
+min_leaf_purity,0.024907415168149975
+top_pair_fraction,0.01180395222771664
+weights,0.001029103762672583

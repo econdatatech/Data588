@@ -1,0 +1,4 @@
+parameter,importance
+top_pair_fraction,0.7930922907508019
+min_leaf_purity,0.1886866553003861
+var_smoothing,0.018221053948812

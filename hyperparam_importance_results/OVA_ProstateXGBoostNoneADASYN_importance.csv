@@ -1,0 +1,5 @@
+parameter,importance
+smote_k,0.39421757868868995
+learning_rate,0.3929275445444372
+n_estimators,0.1766796125444483
+max_depth,0.036175264222424494
